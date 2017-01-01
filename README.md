@@ -1,0 +1,2 @@
+# myodoo
+Odoo exploring
